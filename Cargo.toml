@@ -558,7 +558,7 @@ solana-svm-type-overrides = { path = "svm-type-overrides", version = "=4.0.3", f
 solana-system-interface = { version = ">=3.0.0,<3.2.0", features = ["alloc","bincode","serde"] }
 solana-system-program = { path = "programs/system", version = "=4.0.3", features = ["agave-unstable-api"] }
 solana-system-transaction = "3.0.0"
-solana-sysvar = "3.1.1"
+solana-sysvar = "4.0.0"
 solana-sysvar-id = "3.1.0"
 solana-test-validator = { path = "test-validator", version = "=4.0.3" }
 solana-time-utils = "3.0.0"
